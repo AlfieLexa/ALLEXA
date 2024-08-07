@@ -1,5 +1,3 @@
-npm install dotenv
-
 const { Configuration, OpenAIApi } = require("openai");
 require('dotenv').config()
 
