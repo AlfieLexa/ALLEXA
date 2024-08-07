@@ -1,1 +1,1 @@
-# ALLEXA
+Connect to ChatGPT test
